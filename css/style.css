@@ -1,7 +1,5 @@
 #box-model {
     background-color: #738;
-    color: #fff;
-    font-size: 20px;
     height: 150px;
     width: 650px;
     box-sizing: border-box;
@@ -10,5 +8,10 @@
     border-radius: 10px;
     margin: 50px;
     outline: 15px double #127;
+}
+
+.texto {
+    font-size: 30px;
+    color: #fff;
 }
 
